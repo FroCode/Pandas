@@ -21,14 +21,4 @@ This project involves the analysis of the Titanic dataset, starting with the ini
 2. **Titanic Report.pdf:**
    - PDF report summarizing the analysis.
 
-## How to Use
-Provide instructions on how to replicate the analysis, run scripts, or view visualizations.
 
-## Credits
-Give credit to contributors, data sources, or any external libraries/tools used.
-
-## License
-Specify the project's license, if applicable.
-
-## Additional Notes
-Include any additional information about the project, challenges faced, or future improvements.
