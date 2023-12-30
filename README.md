@@ -1,5 +1,5 @@
 ![image](https://github.com/FroCode/Pandas/assets/43009141/bf41c124-81d9-4adc-bab4-d920b25e6bbe)
-# Project Name: FroCode Titanic Analysis
+# Project Name: Titanic Analysis
 
 ## Overview
 This project involves the analysis of the Titanic dataset, starting with the initial dataset "titanic.xls." The process includes data preprocessing using Pandas and concludes with visualization in Power BI.
